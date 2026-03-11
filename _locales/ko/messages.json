@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "미니 쇼츠 플레이어"
+  },
+  "appDescription": {
+    "message": "유튜브 쇼츠를 작고 빠르게 열 수 있는 전용 창을 제공합니다."
+  },
+  "actionTitle": {
+    "message": "미니 쇼츠 플레이어"
+  },
+  "openShortsWindowCommand": {
+    "message": "미니 쇼츠 플레이어를 열거나 기존 창으로 이동"
+  }
+}

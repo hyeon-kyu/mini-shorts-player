@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Mini Shorts Player"
+  },
+  "appDescription": {
+    "message": "Open YouTube Shorts in a compact always-ready window."
+  },
+  "actionTitle": {
+    "message": "Mini Shorts Player"
+  },
+  "openShortsWindowCommand": {
+    "message": "Open or focus the Shorts mini window"
+  }
+}
